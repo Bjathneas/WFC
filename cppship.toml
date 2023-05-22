@@ -4,3 +4,4 @@ version = "0.1.0"
 std = 17
 
 [dependencies]
+logcore = {git = "https://github.com/Bjathneas/LogCore.git", commit="6f415b2"}
